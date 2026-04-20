@@ -94,7 +94,3 @@ After training, the script generates:
 
 - Default seed is set via `--seed` (default: `42`).
 - Device auto-selection uses CUDA when available, otherwise CPU.
-
-## License
-
-No license file is included by default. Add one if your company requires explicit licensing metadata.
